@@ -1,0 +1,153 @@
+sort_id,nombre,residencia,mes_acusacion_num,mes_acusacion,mes_ejecucion_num,mes_ejecucion,ejecutada
+1,"Abbott, Arthur",Ipswich,5,Mayo,,,No
+2,"Abbott, Nehemiah, Jr.",Topsfield,4,Abril,,,No
+3,"Alden, John",Boston,5,Mayo,,,No
+4,"Andrew, Daniel",Salem Village,5,Mayo,,,No
+5,"Barker, Abigail",Andover,9,Septiembre,,,No
+6,"Barker, Mary",Andover,8,Agosto,,,No
+7,"Barker, William Jr.",Andover,9,Septiembre,,,No
+8,"Barker, William Sr.",Andover,8,Agosto,,,No
+9,"Bassett, Sarah",Lynn,5,Mayo,,,No
+10,"Bishop, Bridget",Salem Town,4,Abril,6,Junio,Si
+11,"Bishop, Edward Jr.",Salem Village,4,Abril,,,No
+12,"Bishop, Sarah",Salem Village,4,Abril,,,No
+13,"Black, Mary",Salem Village,4,Abril,,,No
+14,"Bradbury, Mary",Salisbury,7,Julio,,,No
+15,"Bridges, Mary Jr.",Andover,8,Agosto,,,No
+16,"Bridges, Mary Sr.",Andover,7,Julio,,,No
+17,"Bridges, Sarah",Andover,8,Agosto,,,No
+18,"Bromage, Hannah",Haverhill,7,Julio,,,No
+19,"Buckley, Sarah",Salem Village,5,Mayo,,,No
+20,"Burroughs, George","Wells, Maine",4,Abril,8,Agosto,Si
+21,Candy,Salem Town,7,Julio,,,No
+22,"Carrier, Andrew",Andover,7,Julio,,,No
+23,"Carrier, Martha",Andover,5,Mayo,8,Agosto,Si
+24,"Carrier, Richard",Andover,7,Julio,,,No
+25,"Carrier, Sarah",Andover,8,Agosto,,,No
+26,"Carrier, Thomas Jr.",Andover,8,Agosto,,,No
+27,"Carroll, Hannah",Salem Town,9,Septiembre,,,No
+28,"Carter, Bethia Jr.",Woburn,5,Mayo,,,No
+29,"Carter, Bethia Sr.",Woburn,5,Mayo,,,No
+30,"Cary, Elizabeth",Charlestown,5,Mayo,,,No
+31,"Churchill, Sarah",Salem Town,5,Mayo,,,No
+32,"Clark, Mary",Haverhill,8,Agosto,,,No
+33,"Clinton, Rachel",Ipswich,3,Marzo,,,No
+34,"Cloyce, Sarah",Salem Village,4,Abril,,,No
+35,"Cole, Sarah",Salem Town,9,Septiembre,,,No
+36,"Cole, Sarah",Lynn,10,Octubre,,,No
+37,"Colson, Elizabeth",Reading,5,Mayo,,,No
+38,"Colson, Mary",Reading,9,Septiembre,,,No
+39,"Corey, Giles",Salem Town,4,Abril,9,Septiembre,Si
+40,"Corey, Martha",Salem Town,3,Marzo,9,Septiembre,Si
+41,"Dane, Deliverance",Andover,9,Septiembre,,,No
+42,"Day, Phebe",Gloucester,,Desconocido,,,No
+43,"DeRich, Mary",Salem Town,5,Mayo,,,No
+44,"Dicer, Elizabeth",Gloucester,9,Septiembre,,,No
+45,"Dike, Rebecca",Gloucester,11,Noviembre,,,No
+46,"Dolliver, Ann",Salem Town,6,Junio,,,No
+47,"Downing, Mehitabel",Ipswich,,Desconocido,,,No
+48,"Draper, Joseph",Andover,9,Septiembre,,,No
+49,"Dustin, Lydia",Reading,4,Abril,,,No
+50,"Dustin, Sarah",Reading,5,Mayo,,,No
+51,"Eames, Daniel",Boxford,8,Agosto,,,No
+52,"Eames, Rebecca",Boxford,8,Agosto,,,No
+53,"Easty, Mary",Topsfield,4,Abril,9,Septiembre,Si
+54,"Elwell, Esther",Gloucester,11,Noviembre,,,No
+55,"Emerson, Martha",Haverhill,7,Julio,,,No
+56,"Emons, Joseph",Manchester,9,Septiembre,,,No
+57,"English, Mary",Salem Town,4,Abril,,,No
+58,"English, Phillip",Salem Town,4,Abril,,,No
+59,"Farrer, Thomas Sr.",Lynn,5,Mayo,,,No
+60,"Farrington, Edward",Andover,,Desconocido,,,No
+61,"Faulkner, Abigail Jr.",Andover,9,Septiembre,,,No
+62,"Faulkner, Abigail Sr.",Andover,8,Agosto,,,No
+63,"Faulkner, Dorothy",Andover,9,Septiembre,,,No
+64,"Flood, John",Boston,5,Mayo,,,No
+65,"Fosdick, Elizabeth",Malden,5,Mayo,,,No
+66,"Foster, Ann",Andover,7,Julio,,,No
+67,"Frost, Nicholas","Piscataqua, Maine",9,Septiembre,,,No
+68,"Fry, Eunice",Andover,9,Septiembre,,,No
+69,"Good, Dorothy",Salem Village,3,Marzo,,,No
+70,"Good, Sarah",Salem Village,2,Febrero,7,Julio,Si
+71,"Green, Mary",Haverhill,7,Julio,,,No
+72,"Hardy, Thomas","Piscataqua, Maine",,Desconocido,,,No
+73,"Hart, Elizabeth",Lynn,5,Mayo,,,No
+74,"Hawkes, Margaret",Salem Town,7,Julio,,,No
+75,"Hawkes, Sarah",Andover,9,Septiembre,,,No
+76,"Hoar, Dorcas",Beverly,4,Abril,,,No
+77,"Hobbs, Abigail",Topsfield,4,Abril,,,No
+78,"Hobbs, Deliverance",Topsfield,4,Abril,,,No
+79,"Hobbs, William",Topsfield,4,Abril,,,No
+80,"How, Elizabeth",Ipswich,5,Mayo,7,Julio,Si
+81,"Howard, John",Rowley,8,Agosto,,,No
+82,"Hutchins, Frances",Haverhill,8,Agosto,,,No
+83,"Ireson, Mary",Lynn,6,Junio,,,No
+84,"Jackson, John Jr.",Rowley,8,Agosto,,,No
+85,"Jackson, John Sr.",Rowley,8,Agosto,,,No
+86,"Jacobs, George Jr.",Salem Village,5,Mayo,,,No
+87,"Jacobs, George Sr.",Salem Town,5,Mayo,8,Agosto,Si
+88,"Jacobs, Margaret",Salem Town,5,Mayo,,,No
+89,"Jacobs, Rebecca",Salem Village,5,Mayo,,,No
+90,"Johnson, Abigail",Andover,8,Agosto,,,No
+91,"Johnson, Elizabeth Jr.",Andover,8,Agosto,,,No
+92,"Johnson, Elizabeth Sr.",Andover,8,Agosto,,,No
+93,"Johnson, Rebecca Jr.",Andover,9,Septiembre,,,No
+94,"Johnson, Rebecca Sr.",Andover,9,Septiembre,,,No
+95,"Johnson, Stephen",Andover,9,Septiembre,,,No
+96,"Lacey, Mary Jr.",Andover,7,Julio,,,No
+97,"Lacey, Mary Sr.",Andover,7,Julio,,,No
+98,"Lilly, Jane",Reading,9,Septiembre,,,No
+99,"Marston, Mary",Andover,8,Agosto,,,No
+100,"Martin, Susannah",Amesbury,4,Abril,7,Julio,Si
+101,"Morey, Sarah",Beverly,4,Abril,,,No
+102,"Nurse, Rebecca",Salem Village,3,Marzo,7,Julio,Si
+103,"Osborne, Sarah",Salem Village,2,Febrero,,,No
+104,"Osgood, Mary",Andover,9,Septiembre,,,No
+105,"Paine, Elizabeth",Charlestown,5,Mayo,,,No
+106,"Parker, Alice",Salem Town,5,Mayo,9,Septiembre,Si
+107,"Parker, Mary",Andover,9,Septiembre,9,Septiembre,Si
+108,"Parker, Sarah",Andover,,Desconocido,,,No
+109,"Pease, Sarah",Salem Town,5,Mayo,,,No
+110,"Penney, Joan",Gloucester,9,Septiembre,,,No
+111,"Post, Hannah",Boxford,8,Agosto,,,No
+112,"Post, Mary",Rowley,8,Agosto,,,No
+113,"Post, Susannah",Andover,8,Agosto,,,No
+114,"Prince, Margaret",Gloucester,9,Septiembre,,,No
+115,"Proctor, Benjamin",Salem Town,5,Mayo,,,No
+116,"Proctor, Elizabeth",Salem Town,4,Abril,,,No
+117,"Proctor, John",Salem Town,4,Abril,8,Agosto,Si
+118,"Proctor, Sarah",Salem Town,5,Mayo,,,No
+119,"Proctor, William",Salem Town,5,Mayo,,,No
+120,"Pudeator, Ann",Salem Town,5,Mayo,9,Septiembre,Si
+121,"Redd, Wilmott",Marblehead,5,Mayo,9,Septiembre,Si
+122,"Rice, Sarah",Reading,5,Mayo,,,No
+123,"Roots, Susannah",Beverly,5,Mayo,,,No
+124,"Row, Abigail",Gloucester,11,Noviembre,,,No
+125,"Row, Mary",Gloucester,,Desconocido,,,No
+126,"Salter, Henry",Andover,9,Septiembre,,,No
+127,"Sawdy, John",Andover,,Desconocido,,,No
+128,"Scott, Margaret",Rowley,8,Agosto,9,Septiembre,Si
+129,"Sears, Ann",Woburn,5,Mayo,,,No
+130,"Somes, Abigail",Salem Town,5,Mayo,,,No
+131,"Sparks, Martha",Chelmsford,,Desconocido,,,No
+132,"Taylor, Mary",Reading,9,Septiembre,,,No
+133,Tituba Indian,Salem Village,2,Febrero,,,No
+134,"Tookey, Job",Beverly,6,Junio,,,No
+135,"Toothaker, Margaret",Billerica,5,Mayo,,,No
+136,"Toothaker, Mary",Billerica,5,Mayo,,,No
+137,"Toothaker, Roger",Billerica,5,Mayo,,,No
+138,"Tyler, Hannah",Andover,9,Septiembre,,,No
+139,"Tyler, Johanna",Andover,9,Septiembre,,,No
+140,"Tyler, Martha",Andover,9,Septiembre,,,No
+141,"Tyler, Mary",Andover,9,Septiembre,,,No
+142,"Vincent, Rachel",Gloucester,,Desconocido,,,No
+143,"Wardwell, Mercy",Andover,9,Septiembre,,,No
+144,"Wardwell, Samuel",Andover,9,Septiembre,9,Septiembre,Si
+145,"Wardwell, Sarah",Andover,9,Septiembre,,,No
+146,"Warren, Mary",Salem Town,4,Abril,,,No
+147,"Whittredge, Mary",Salem Village,5,Mayo,,,No
+148,"Wilds, Sarah",Topsfield,4,Abril,7,Julio,Si
+149,"Wilford, Ruth",Haverhill,8,Agosto,,,No
+150,"Willard, John",Salem Village,5,Mayo,8,Agosto,Si
+151,"Wilson, Sarah Jr.",Andover,9,Septiembre,,,No
+152,"Wilson, Sarah Sr.",Andover,9,Septiembre,,,No
